@@ -1,4 +1,4 @@
-# AdvancedAndroid_Emojify
+# AdvancedAndroid_Emojify (Updated to work with Android Studio Dolphin)
 
 This is the toy app for the Libraries lesson of the [Advanced Android App Development course on Udacity](https://www.udacity.com/course/advanced-android-app-development--ud855).
 
